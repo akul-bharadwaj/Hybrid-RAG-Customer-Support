@@ -111,6 +111,16 @@ Hybrid-RAG-Customer-Support/
 
 ---
 
+## Data and Generated Artifacts
+
+The datasets, corporate SOP corpus, and generated artifacts required to reproduce the notebook workflow are available in the following read-only Google Drive folder:
+
+[Access the project data and artifacts](https://drive.google.com/drive/folders/1x0SDbr7Is52jKasQhBud9aZyRNne-uat?usp=sharing)
+
+The shared folder follows the `data/` and `artifacts/` directory structure expected by the notebooks. Large model adapters, ChromaDB files, evaluation outputs, training logs, and reproducibility metadata are included where applicable.
+
+---
+
 ## Notebook Workflow
 
 ### 1. `Data_Understanding_and_EDA.ipynb`
